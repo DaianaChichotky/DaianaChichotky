@@ -20,4 +20,4 @@ Feel free to reach out to me 😊
 
   👩‍💻 My Mail: daianachichotky@gmail.com
   
-  👩‍💻 My Linkedin: https://www.linkedin.com/in/daianachichotky
+  👩‍💻 My Linkedin: https://www.linkedin.com/in/daiana-chichotky-6206ba52/
