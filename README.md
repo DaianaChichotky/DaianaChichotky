@@ -18,6 +18,6 @@ I'm looking forward to connecting with you all and being part of this vibrant co
 
 Feel free to reach out to me 😊
 
-  👩‍💻 My Mail: daianachichotky@gmail.com
+  🖥️ My Mail: daianachichotky@gmail.com
   
-  👩‍💻 My Linkedin: https://www.linkedin.com/in/daiana-chichotky-6206ba52/
+  🖥️ My Linkedin: https://www.linkedin.com/in/daiana-chichotky-6206ba52/
