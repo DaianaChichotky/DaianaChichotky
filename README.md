@@ -16,7 +16,7 @@ I’m currently immersed in the process of learning all the essential tools for 
 
 I'm looking forward to connecting with you all and being part of this vibrant community of data analysts on GitHub!
 
-Feel free to reach out to me 😊
+Feel free to reach me out 😊
 
   🖥️ My Mail: daianachichotky@gmail.com
   
