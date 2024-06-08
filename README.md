@@ -24,7 +24,7 @@ Feel free to reach me out 😊
 
   Below you can find my last projects:
 
-  🏡 [Project: Airbnb Rental Analysis in Montreal](https://github.com/DaianaChichotky/Airbnb_Montreal)): Analysis of Airbnb data for Montreal including data preprocessing, EDA and implementation of machine learning models (regression models) to predict the prices of the listings. 
+  🏡 [Airbnb Rental Analysis in Montreal](https://github.com/DaianaChichotky/Airbnb_Montreal): Analysis of Airbnb data for Montreal including data preprocessing, EDA and implementation of machine learning models (regression models) to predict the prices of the listings. 
   
-  🚢 [Project Titanis](https://github.com/DaianaChichotky/Proyecto-Titanic): Analysis of the Titanic dataset.
+  🚢 [Analysis of Titanic](https://github.com/DaianaChichotky/Proyecto-Titanic): Analysis of the Titanic dataset.
 
