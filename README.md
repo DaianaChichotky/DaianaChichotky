@@ -21,3 +21,10 @@ Feel free to reach me out 😊
   🖥️ My Mail: daianachichotky@gmail.com
   
   🖥️ My Linkedin: https://www.linkedin.com/in/daiana-chichotky-6206ba52/
+
+  Below you can find my last projects:
+
+  🏡 [Project: Airbnb Rental Analysis in Montreal](https://github.com/DaianaChichotky/Airbnb_Montreal)): Analysis of Airbnb data for Montreal including data preprocessing, EDA and implementation of machine learning models (regression models) to predict the prices of the listings. 
+  
+  🚢 [Project Titanis](https://github.com/DaianaChichotky/Proyecto-Titanic): Analysis of the Titanic dataset.
+
