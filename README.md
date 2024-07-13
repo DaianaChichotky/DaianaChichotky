@@ -24,7 +24,11 @@ I'm looking forward to connecting with you all and being part of this vibrant co
 
   ### Below you can find my last projects:
 
+  🌎 [Best cities to live](https://github.com/DaianaChichotky/Best_cities_to_live): A data-driven application that helps users find the best cities to live based on their personal preferences.
+
   🏡 [Airbnb Rental Analysis in Montreal](https://github.com/DaianaChichotky/Airbnb_Montreal): Analysis of Airbnb data for Montreal including data preprocessing, EDA and implementation of machine learning models (regression models) to predict the prices of the listings. 
   
   🚢 [Analysis of Titanic](https://github.com/DaianaChichotky/Proyecto-Titanic): Analysis of the Titanic dataset.
+
+  
 
